@@ -1,0 +1,105 @@
+WINDOW_TITLE_EN = Labyrinth table-game, created by Plankton_Filip
+WINDOW_MAIN_EN = Menu
+WINDOW_MAIN_NEWGAME_EN = New game
+WINDOW_EXIT_EN = Exit
+WINDOW_OPTION_EN = Option
+WINDOW_CUSTOMS_EN = Settings...
+WINDOW_EDITMESSAGE_EN = Click 'Editing is done' when you will be ready to start.
+WINDOW_NEXTMOVE_EN = Next moving of 
+WINDOW_WINNER_EN = Winner: 
+
+LABPANEL_EDITBUTTON_EN = Editing is done
+
+NEWGAMEDIALOG_TITLE_EN = Creating new game...
+NEWGAMEDIALOG_PLAYERS_EN = Players:
+NEWGAMEDIALOG_AREASIZE_EN = Area size:
+NEWGAMEDIALOG_OPTIONS_EN = Settings
+NEWGAMEDIALOG_CREATE_EN = Create
+
+OPTIONDIALOG_TITLE_EN = Options
+OPTIONDIALOG_ENDOFMOVING_EN = The end of moving:
+OPTIONDIALOG_FIRSTWALL_EN = By the first wall
+OPTIONDIALOG_NEXTCELL_EN = By successfull move on the next cell
+OPTIONDIALOG_HOSPITALMODE_EN = Hospital mode on
+OPTIONDIALOG_EXITMODE_EN = Exit mode on
+OPTIONDIALOG_FAKETREASUREMODE_EN = Fake treasures mode on
+OPTIONDIALOG_MAPAMMUNITION_EN = Map ammunition on
+OPTIONDIALOG_ONLYMINESANDDINAS_EN = Only mines and dynamites
+OPTIONDIALOG_RUSSIANINTERFACE_EN = Russian interface ;)
+OPTIONDIALOG_PERCENTOFPORTALS_EN = Percent of portals (0-5%)
+OPTIONDIALOG_PERCENTOFAMMUNITION_EN = Percent of ammunition (0-10%)
+OPTIONDIALOG_PERCENTOFFAKES_EN = Percent of fake treasure (0-5%)
+OPTIONDIALOG_HOSPITALPERCENTOFDEADLOCKS_EN = Hospitals percent of deadlocks (0-50%)
+OPTIONDIALOG_FACTORTRAPS_EN = Factor traps by hospital (0.0-2.0)
+OPTIONDIALOG_SETDEFAULTCUSTOMS_EN = Set default customs
+OPTIONDIALOG_ACCEPT_EN = Accept
+
+CREATINGPLAYERSDIALOG_TITLE_EN = Creating players...
+CREATINGPLAYERSDIALOG_ENTER_EN = Enter 
+CREATINGPLAYERSDIALOG_PLAYER_EN = player
+CREATINGPLAYERSDIALOG_PLEASE_EN = , please 
+CREATINGPLAYERSDIALOG_ORDER_EN = first ;second ;third ;fourth 
+CREATINGPLAYERSDIALOG_ADD_EN = Add
+
+PLAYERPANEL_LOCATION_EN = location: 
+PLAYERPANEL_INSTOCK_EN = in stock: 
+PLAYERPANEL_COUNTOFHURTS_EN = count of hurts: 
+PLAYERPANEL_USE_EN = use 
+
+AMMUNITION_GUN_EN = gun
+AMMUNITION_MINE_EN = mine
+AMMUNITION_DINAMIT_EN = dinamit
+
+
+
+WINDOW_TITLE_RUS = Настольная игра "Лабиринт", автор Plankton_Filip
+WINDOW_MAIN_NEWGAME_RUS = Новая игра
+WINDOW_MAIN_RUS = Меню
+WINDOW_EXIT_RUS = Выход
+WINDOW_OPTION_RUS = Опции
+WINDOW_CUSTOMS_RUS = Настройки...
+WINDOW_EDITMESSAGE_RUS = Нажмите "Завершить редактирование", когда будете готовы начать игру.
+WINDOW_NEXTMOVE_RUS = Следующий ходит 
+WINDOW_WINNER_RUS = Победитель: 
+
+LABPANEL_EDITBUTTON_RUS = Завершить редактирование
+
+NEWGAMEDIALOG_TITLE_RUS = Создание новой игры...
+NEWGAMEDIALOG_PLAYERS_RUS = Игроки: 
+NEWGAMEDIALOG_AREASIZE_RUS = Размер области:
+NEWGAMEDIALOG_OPTIONS_RUS = Настройки
+NEWGAMEDIALOG_CREATE_RUS = Создать
+
+OPTIONDIALOG_TITLE_RUS = Настройки
+OPTIONDIALOG_ENDOFMOVING_RUS = Продолжительность ходов:
+OPTIONDIALOG_FIRSTWALL_RUS = До первой стены
+OPTIONDIALOG_NEXTCELL_RUS = До соседней клетки
+OPTIONDIALOG_HOSPITALMODE_RUS = Режим с госпиталями и ранениями
+OPTIONDIALOG_EXITMODE_RUS = Режим с выходом из лабиринта
+OPTIONDIALOG_FAKETREASUREMODE_RUS = Режим с не настоящими кладами
+OPTIONDIALOG_MAPAMMUNITION_RUS = Аммуниция на карте(в начале игры у игроков нет оружия)
+OPTIONDIALOG_ONLYMINESANDDINAS_RUS = только мины и динамиты
+OPTIONDIALOG_RUSSIANINTERFACE_RUS = Русский язык интерфейса
+OPTIONDIALOG_PERCENTOFPORTALS_RUS = Процент порталов на карте (0-5%)
+OPTIONDIALOG_PERCENTOFAMMUNITION_RUS = Процент аммуниции на карте (0-10%)
+OPTIONDIALOG_PERCENTOFFAKES_RUS = Процент не настоящих кладов на карте (0-5%)
+OPTIONDIALOG_HOSPITALPERCENTOFDEADLOCKS_RUS = Процент госпиталей от количества тупиков (0-50%)
+OPTIONDIALOG_FACTORTRAPS_RUS = Коэффициент капканов (0.0-2.0)
+OPTIONDIALOG_SETDEFAULTCUSTOMS_RUS = Сбросить настройки
+OPTIONDIALOG_ACCEPT_RUS = Принять
+
+CREATINGPLAYERSDIALOG_TITLE_RUS = Создание игроков...
+CREATINGPLAYERSDIALOG_ENTER_RUS = Введите 
+CREATINGPLAYERSDIALOG_PLAYER_RUS = игрока
+CREATINGPLAYERSDIALOG_PLEASE_RUS = , пожалуйста!
+CREATINGPLAYERSDIALOG_ORDER_RUS = первого ;второго ;третьего ;четвертого 
+CREATINGPLAYERSDIALOG_ADD_RUS = Добавить
+
+PLAYERPANEL_LOCATION_RUS = координаты: 
+PLAYERPANEL_INSTOCK_RUS = в наличии: 
+PLAYERPANEL_COUNTOFHURTS_RUS = количество ранений: 
+PLAYERPANEL_USE_RUS = использовать 
+
+AMMUNITION_GUN_RUS = пистолет
+AMMUNITION_MINE_RUS = мина
+AMMUNITION_DINAMIT_RUS = динамит
